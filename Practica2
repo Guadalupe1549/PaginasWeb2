@@ -1,0 +1,59 @@
+<html>
+<head>
+<style>
+body{
+ background-color:cdb4db ;
+
+}
+.p1{
+ color: 14213d;
+}
+
+}
+.p2{
+ color: black;
+}
+
+ol{
+ backgrud: lightblue;
+ paddig.20px
+}
+
+</style>
+</head>
+<body>
+
+<h1 style="background-color: ffafcc;"><center>  Recetas de cocinas</h1>
+
+<ul>
+  <li p style="color:7209b7"> 3/4 <span style="color:black"> De taza de azúcar refinada</li>
+<li p style="color:7209b7"> 1/2 <span style="color:black">Taza de Agua</li>
+<li p style="color:7209b7"> 1 <span style="color:black"> Lata de Leche Condensada </li>
+<li p style="color:7209b7">1<span style="color:black">Lata de Leche Evaporada </li>
+ <li p style="color:7209b7"> 1<span style="color:black"> Paquete de queso crema a temperatura ambiente</li> 
+  <li p style="color:7209b7">5<span style="color:black"> Huevos</li> 
+      <li p style="color:7209b7">1<span style="color:black">Cucharada de esencia de vainilla </li> 
+
+</ul>
+
+<h1 style="background-color: ffafcc;"><center>  Utensilios</h1>
+
+<ul>
+<li p style="color:7209b7"> L<span style="color:black">icuadora </li>
+<li p style="color:7209b7"> P<span style="color:black">apel aluminio </li>
+  <li p style="color:7209b7"> S<span style="color:black">pringform pan</i>
+    <li p style="color:7209b7"> B<span style="color:black">andeja de horno </li>
+      <li p style="color:7209b7"> N<span style="color:black">evera </li>
+
+
+    
+</ul>
+
+<h1 style="background-color: ffafcc;"><center> Procedimiento</h1>
+
+<p> •Horno precalentado a 180 °C. </p>
+<p> •Vierte el azúcar en una flanera y calienta a fuego medio para que se forme el caramelo; ladea con cuidado el molde para cubrir la superficie y las paredes. </p>
+<p> •Licúa la Leche Condensada  con la Leche Evaporada , el queso crema, los huevos y la esencia de vainilla. Vierte la preparación en la flanera y tapa con papel aluminio sellando las orillas. Coloca en un recipiente y cocina a baño María en el horno a 180 °C durante 1 a 2 horas.</p>
+<p> •  Retira del fuego y deja enfriar por completo; desmolda y sirve, Disfruta el rico Flan Napolitano!</p>
+<body>
+<html>
