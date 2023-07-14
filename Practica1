@@ -1,0 +1,79 @@
+html>
+<head>
+<style>
+body{ 
+.p1{
+ color: purple;
+ font-family: "Times New Roman";
+
+}
+ background-color: CCD5AE;
+ 
+}
+table, td, th{
+ border: 1px solid;
+ text-aling: center;
+}
+
+table{
+ width: 100%
+ border-collapse: collapse;
+ color:#457B9D;
+}
+</style>
+</head>
+<body>
+<center class="p1"><h2> Horario de clases "6° A"</h2></center>
+<table>
+<tr>
+<th> Horas </th>
+<th> Lunes </th>
+<th> Martes </th>
+<th> Miercoles </th> 
+<th> Jueves </th>
+<th> Viernes </th>
+<tr>
+<th> 8:00 a 9:00 am </th>
+<th> Filosofía </th>
+<th> Contabilidad </th>
+<th> Filosofía </th>
+<th> Probabilidad y estadística </th>
+<th> Derecho </th>
+<tr>
+<th> 9:00 a 10:00 am </th> 
+<th> Filosofía </th>
+<th> Contabilidad </th> 
+<th> Ecología </th>
+<th> Probabilidad y estadística </th>
+<th> Cálculo Integral </th> 
+<tr>
+<th> 10:00 a 11:00 am </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<th> </th>
+<tr> 
+<th> 11:00 am a 12:00 pm </th>
+<th> Historia Universal Contemporánea </th>
+<th> Ecología </th>
+<th> Animaciones con multimedios </th>
+<th> Cálculo Integral </th>
+<th> Páginas Web </th>
+<tr> 
+<th> 12:00 a 1:00 pm </th>
+<th> Historia Universal Contemporánea </th>
+<th> Ecología </th>
+<th> Animaciones con elementos multimedia </th>
+<th> Cálculo Integral</th>
+<th> Historia Universal Contemporánea</th>
+<tr> 
+<th> 1:00 am a 2:00 pm </th>
+<th> Páginas Web</th>
+<th> Derecho </th>
+<th> Probabilidad y estadística </th>
+<th> Contabilidad </th>
+<th> Páginas Web</th>
+</table>
+</body>
+</html>
