@@ -1,0 +1,13 @@
+<html>
+   <head>
+      <title>Práctica 3</title>
+   </head>
+   <body>
+<h1><center>Paginas Web</h1>
+      <main>
+<h2><center>Instituto Educativo Yolda</h2>
+     <marquee height="30" width="400" scrollamount="8", bgcolor="ffb3c6"><center> Cruz Gaona Guadalupe </marquee>
+       <marquee height="30" width="400" scrollamount="8", bgcolor="ffc2d1"><center> 6"A"</marquee>
+      </main>
+  </body>
+ </html>
